@@ -1,0 +1,25 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  width: 25%;
+  height: 356px;
+  text-align: center;
+}
+.logo {
+  height: 10%;
+}
+.username {
+  margin-top: 10%;
+  background-color: #d3d6db;
+  border: 1px solid #000000;
+}
+.button {
+  background-color: darkblue;
+  color: #ffffff;
+  border: 0px;
+  margin-top: 10%;
+  border-radius: 5px;
+}
