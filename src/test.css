@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+}
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  background-color: darkblue;
+}
+.item1 {
+  background-image: url("https://i0.wp.com/eos.org/wp-content/uploads/2017/09/geodeepdive-geoscience-publication-literature-data-mining-main.jpg?fit=820%2C615&ssl=1");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.item2 {
+  background-image: url("https://dronebelow.com/wp-content/uploads/2018/09/brain-neural-64358966_m.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.heading {
+  color: #ffffff;
+}
+.description {
+  color: #ffffff;
+}
+.item3 {
+  background-image: url("https://dhandhokaro.com/wp-content/uploads/2022/03/Mobile-Marketing-Strategy.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.item4 {
+  background-image: url("https://assets.eaglepi.com/uploads/2017/09/PlanDoCheckAct_Blog_Featured-Image.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.card-container {
+  display: flex;
+  margin-left: 35%;
+}
+.carousel-container {
+  width: 25%;
+}
+.login-container {
+  display: flex;
+  flex-direction: column;
+}
