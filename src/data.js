@@ -35,6 +35,7 @@ class Data extends React.Component {
 
     return (
       <div className="App">
+        <h1>Logged in!</h1>
         <h1> {items.chartName} </h1> <p>{items.time.updated}</p>
         <p>
           <span className="disclaimer">!!!</span>&nbsp;
